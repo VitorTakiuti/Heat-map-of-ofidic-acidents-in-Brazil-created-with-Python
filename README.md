@@ -1,4 +1,5 @@
 # Heat-map-of-ofidic-acidents-in-Brazil-created-with-Python
+Authors: Diego Henrique dos Santos, Leticia Bernardino Toffoli, Vitor Ouchi  Takiuti
 Using Python to create a heat map of Brazil that represents the ofidic accidents and deaths per State
 I use Google Colab as my programming software
 The code is in the doc
